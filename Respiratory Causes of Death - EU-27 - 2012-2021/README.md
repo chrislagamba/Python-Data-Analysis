@@ -1,8 +1,8 @@
 ## Description
-This is an analysis of a dataset obtained from the Global Burden of Disease Results Tool (Global Burden of Disease Collaborative Network, 2022) using Python and the Pandas, NumPy, Matplotlib, and Seaborn libraries in a Jupyter Notebook. VSCodium was used as the IDE.
+This is an analysis of a dataset obtained from the Global Burden of Disease Results Tool (Global Burden of Disease Collaborative Network, 2022) using relevant Python libraries in a Jupyter Notebook. VSCodium was used as the IDE with VSCodium used for git control (commit, push, etc.).
 
 ## "Business" Case
-This analysis was primarily completed to both practice my python skills and to gain more insight into the number of deaths associated with asthma and chronic obstructive pulmonary disease (COPD). My literature research into the rate of deaths (and costs) for asthma-related deaths in Portugal showed that roughly 9.3% of all deaths are attributed to asthma (Copenhagen Institute for Future Studies, 2025). Asthma-related deaths *should* be preventable. The percentage I found was a snapshot in time. I primarily wanted to compare the number of asthma- and COPD-related deaths in Portugal to the remainder of the EU-27 countries.
+This analysis was primarily completed to both practice my python skills and to gain more insight into the number of deaths associated with asthma and chronic obstructive pulmonary disease (COPD). My literature research into the rate of deaths (and costs) for asthma-related deaths in Portugal showed that roughly 9.3% of all deaths in Portugal are attributed to severe asthma (Copenhagen Institute for Future Studies, 2025). Asthma-related deaths *should* be preventable. The percentage I found was a snapshot in time. I primarily wanted to compare the number of asthma- and COPD-related deaths in Portugal to the remainder of the EU-27 countries. 
 
 ## GBD Results Tool Criteria:
 1. GBD Estimate: Cause of death or injury
